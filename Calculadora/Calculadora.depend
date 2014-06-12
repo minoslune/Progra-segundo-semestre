@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1401302767 source:c:\users\cristian\desktop\ingeniería\programación duran\calculadora\main.cpp
+	<iostream>
+	<math.h>
+

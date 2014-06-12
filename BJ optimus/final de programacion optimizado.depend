@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1402425684 source:c:\users\cristian\desktop\ingeniería\programación duran\final de programacion optimizado\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+
